@@ -1,6 +1,6 @@
 # Spotify-Dashboard-using-Power-BI
-🎧 Spotify Dashboard (Power BI) An interactive Power BI dashboard visualizing Spotify listening data, providing insights into user behavior, top tracks, most played artists, listening trends over time, and more.
-Dataset Details
+This project focuses on analyzing the most streamed songs using Power BI. The dataset utilized provides a comprehensive list of popular songs along with various attributes such as track name, artist(s) name, release date, streaming statistics, presence on different music platforms, and audio features.
+# Dataset Details
 The dataset includes the following key features:
 
 track_name: Name of the song
@@ -27,13 +27,14 @@ acousticness_%: Amount of acoustic sound in the song
 instrumentalness_%: Amount of instrumental content in the song
 liveness_%: Presence of live performance elements
 speechiness_%: Amount of spoken words in the song
-Key Features of the Power BI Project
+
+# Key Features of the Power BI Project
 Integration of ChatGPT for enriching Spotify data with Python code.
 Utilization of Spotify's API to access album cover image URLs.
 Creation of HTML visuals for enhanced dashboard presentation.
 Implementation of glass morphism backgrounds for aesthetic appeal.
 Generation of KPI cards and heat maps for data analysis.
-Potential Use Cases
+# Potential Use Cases
 Music analysis: Explore patterns in audio features to understand trends and preferences in popular songs.
 Platform comparison: Compare the song's popularity across different music platforms.
 Artist impact: Analyze how artist involvement and attributes relate to a song's success.

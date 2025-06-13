@@ -69,3 +69,5 @@ The dataset includes the following key features:
 
 This project is licensed under the [MIT License](LICENSE).
 
+![image alt](https://github.com/MarshallxMG/Spotify-Dashboard-using-Power-BI/blob/3b91c63f7ca522cba8e88195f60316675b88b7bf/Home%20Page.png)
+
